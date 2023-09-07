@@ -1,0 +1,15 @@
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\bin\Debug\net6.0\NorthWind.UseCasesPorts.deps.json
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\bin\Debug\net6.0\NorthWind.UseCasesPorts.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\bin\Debug\net6.0\NorthWind.UseCasesPorts.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\bin\Debug\net6.0\NorthWind.UseCasesDTOs.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\bin\Debug\net6.0\NorthWind.UseCasesDTOs.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.csproj.CopyComplete
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\refint\NorthWind.UseCasesPorts.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\NorthWind.UseCasesPorts.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesPorts\obj\Debug\net6.0\ref\NorthWind.UseCasesPorts.dll

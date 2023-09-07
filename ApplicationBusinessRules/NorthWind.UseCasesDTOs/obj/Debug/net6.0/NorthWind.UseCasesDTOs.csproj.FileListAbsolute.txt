@@ -1,0 +1,12 @@
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\bin\Debug\net6.0\NorthWind.UseCasesDTOs.deps.json
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\bin\Debug\net6.0\NorthWind.UseCasesDTOs.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\bin\Debug\net6.0\NorthWind.UseCasesDTOs.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\refint\NorthWind.UseCasesDTOs.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\NorthWind.UseCasesDTOs.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\NorthWind.UseCasesDTOs\obj\Debug\net6.0\ref\NorthWind.UseCasesDTOs.dll
